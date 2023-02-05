@@ -1,2 +1,1 @@
-# Embedded_System_Diploma
-# Embedded_System_Diploma
+#إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَن يَشَاءُ
